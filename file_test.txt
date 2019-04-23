@@ -1,4 +1,0 @@
-text
-edit
-add 2
-edit tren local day
