@@ -1,4 +1,2 @@
 text
 edit
-edit2
-edit3
